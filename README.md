@@ -1,4 +1,5 @@
-![Header](https://your-image-url.com/banner.png)
+![Header](https://img.freepik.com/premium-photo/anime-girl-character-engaged-coding-digital-journey-into-world-programming_893737-12832.jpg)
+
 # Hi there, I am Zia.🐢
 
 ## 📝 About Me
