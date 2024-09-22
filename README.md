@@ -6,6 +6,7 @@
 I'm passionate about a variety of things:
 
 📖 Literature – I love diving into different worlds through books.
+
 🚀 Rockets – The technology and science behind space exploration fascinates me.
 🌌 Northern Lights – Their beauty and wonder are something that I’m always captivated by.
 But what excites me the most? Coding! 💻 
