@@ -3,10 +3,13 @@
 ## 📝 About Me
 -I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics. 🚀
 
-I'm passionate about
-📖 Literature, 🚀 Rockets & 🌌 Northern Lights. 
-But what excites me the most is coding.💻
-- [Technology/Skills you're learning]
+I'm passionate about a variety of things:
+
+📖 Literature – I love diving into different worlds through books.
+🚀 Rockets – The technology and science behind space exploration fascinates me.
+🌌 Northern Lights – Their beauty and wonder are something that I’m always captivated by.
+But what excites me the most? Coding! 💻 
+
 
 ## 🛠️ Technologies & Tools
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20Java-000000?style=for-the-badge)
