@@ -2,25 +2,21 @@
 
 ## 📝 About Me
 -I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics. 🚀
-
 I'm passionate about a variety of things:
-
 📖 Literature – I love diving into different worlds through books.
-
 🚀 Rockets – The technology and science behind space exploration fascinates me.
 🌌 Northern Lights – Their beauty and wonder are something that I’m always captivated by.
 But what excites me the most? Coding! 💻 
 
+## 🌱 Currently Learning
+- Advanced Data Structures & Algorithms
+- Machine Learning & AI Concepts
+- Full-Stack Web Development
 
-## 🛠️ Technologies & Tools
-![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20Java-000000?style=for-the-badge)
-
-## 🖥️ Projects
-| Name | Description | Tech Stack |
-| ---- | ----------- | ---------- |
-| [Project 1](link) | Short description | JavaScript, CSS |
-| [Project 2](link) | Short description | React, Firebase |
-
+## 🛠️ Tech Stack
+- **Frontend**: `React`, `CSS`, `JavaScript`
+- **Backend**: `Node.js`, `Express`, `MongoDB`
+- **Tools**: `Git`, `Figma`, `Postman`
 
 ## 🔗 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/yourname)
+- [LinkedIn](www.linkedin.com/in/zia-ali-a4b106248)
