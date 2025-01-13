@@ -1,7 +1,7 @@
 # Hi there, I am Zia.🥷🏻
 ## About Me
--I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics. 🚀
-I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain and all other things cool.
+-I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics.
+I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain and all other things cool.🚀
 
 ## Currently Learning
 - Advanced Data Structures & Algorithms
