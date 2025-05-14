@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![My Canva GIF](https://github.com/ziyyaa1/ziyyaa1/blob/main/Colorful%20Illustration%20Game%20Linkedin%20Banner.gif?raw=true)
+
 
 # Hi there, I am Zia.🥷🏻
 ## About Me
