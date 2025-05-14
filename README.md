@@ -1,7 +1,5 @@
 ![My Canva GIF](https://github.com/ziyyaa1/ziyyaa1/blob/main/Colorful%20Illustration%20Game%20Linkedin%20Banner.gif?raw=true)
 
-
-# Hi there, I am Ziya.🥷🏻
 ## 🦾 About Me
 -I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics.
 I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain and all other things cool.🚀
@@ -45,4 +43,20 @@ I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain
 
 
 ## 🔗 Connect With Me
-- [LinkedIn](www.linkedin.com/in/zia-ali-a4b106248)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zia-ali-a4b106248" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ziaali332@outlook.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ziyyaa1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
+## 🐍 GitHub Contribution Snake
+![Snake animation](https://github.com/ziyyaa1/ziyyaa1/blob/output/github-contribution-grid-snake.svg)
