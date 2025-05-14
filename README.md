@@ -2,11 +2,11 @@
 
 
 # Hi there, I am Ziya.🥷🏻
-## About Me
+## 🦾 About Me
 -I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics.
 I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain and all other things cool.🚀
 
-## Currently Learning
+## ⚡️ Currently Learning
 - Advanced Data Structures & Algorithms
 - Machine Learning & AI Concepts
 - Full-Stack Web Development
