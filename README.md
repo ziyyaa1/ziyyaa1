@@ -58,3 +58,6 @@ I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain
   </a>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyyaa1&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyyaa1&layout=compact&theme=tokyonight)
+
