@@ -60,4 +60,5 @@ I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/ziyyaa1/ziyyaa1/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ziyyaa1/output/main/dist/github-contribution-grid-snake.svg)
+
