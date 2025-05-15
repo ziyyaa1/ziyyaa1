@@ -1,13 +1,15 @@
 ![My Canva GIF](https://github.com/ziyyaa1/ziyyaa1/blob/main/Colorful%20Illustration%20Game%20Linkedin%20Banner.gif?raw=true)
 
-## 🦾 About Me
--I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics.
+## 🎸 About Me
+I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics.
 I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain and all other things cool.🚀
+Fun Fact: I ride horses, bake yum stuff & do youtube sometimes.😋
 
-## ⚡️ Currently Learning
+## 🐚 Currently Learning
 - Advanced Data Structures & Algorithms
 - Machine Learning & AI Concepts
 - Full-Stack Web Development
+- & How to play guitar? 
 
 
 ## 🚀 Tools & Technologies I Use
@@ -42,8 +44,7 @@ I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain
 </p> 
 
 
-## 🔗 Connect With Me
-
+## 🔗 Lets connect or have little chatty chat
 <p align="left">
   <a href="https://www.linkedin.com/in/zia-ali-a4b106248" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -58,6 +59,7 @@ I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain
   </a>
 </p>
 
+## 🕺🏻 Few stats that I find cool
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyyaa1&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyyaa1&layout=compact&theme=tokyonight)
 
