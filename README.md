@@ -79,3 +79,9 @@ Fun Fact: I ride horses, bake yum stuff & do youtube sometimes.😋
 
 
 ## oki biye🕺🏻
+
+<p align="center">
+  <img src="https://github.com/ziyyaa1/ziyyaa1/blob/main/IMG_4782.GIF?raw=true" alt="Bye Bye GIF" width="300"/>
+</p>
+
+<h2 align="center">oki biye 🕺🏻</h2>
