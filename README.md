@@ -72,7 +72,7 @@ Fun Fact: I ride horses, bake yum stuff & do youtube sometimes.😋
 
 ---
 
-### Trophies
+## 🎖️ Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ziyyaa1&theme=onestar&no-bg=true&no-frame=true&column=6" />
