@@ -70,7 +70,6 @@ Fun Fact: I ride horses, bake yum stuff & do youtube sometimes.😋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyyaa1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
 
 ## 🎖️ Trophies
 
@@ -78,6 +77,5 @@ Fun Fact: I ride horses, bake yum stuff & do youtube sometimes.😋
   <img src="https://github-profile-trophy.vercel.app/?username=ziyyaa1&theme=onestar&no-bg=true&no-frame=true&column=6" />
 </p>
 
----
 
 ## oki biye🕺🏻
