@@ -9,6 +9,7 @@ Fun Fact: I ride horses, bake yum stuff & do youtube sometimes.😋
 - Advanced Data Structures & Algorithms
 - Machine Learning & AI Concepts
 - Full-Stack Web Development
+- French
 - & How to play guitar? 
 
 
