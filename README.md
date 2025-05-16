@@ -3,7 +3,7 @@
 ## 🎸 About Me
 I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics.
 I am passionate about Full Stack Development, AI/ML, Cryptocurrency & Blockchain and all other things cool.🚀
-Fun Fact: I ride horses, bake yum stuff & do youtube sometimes.😋
+Fun Fact: I ride horses & do youtube sometimes.😋
 
 ## 🐚 Currently Learning
 - Advanced Data Structures & Algorithms
