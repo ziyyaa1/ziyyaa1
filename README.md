@@ -41,9 +41,9 @@ Fun Fact: I ride horses & do youtube sometimes.😋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyyaa1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<!--
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ziyyaa1/ziyyaa1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ziyyaa1/ziyyaa1/output/github-contribution-grid-snake.svg#gh-light-mode-only)-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/ziyyaa1/ziyyaa1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=ziyyaa1)
 
