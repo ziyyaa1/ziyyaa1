@@ -54,7 +54,7 @@ Fun Fact: I ride horses & do youtube sometimes.😋
 
 
 <p align="center">
-  <img src="[https://github.com/ziyyaa1/ziyyaa1/blob/main/IMG_4782.GIF?raw=true](https://media2.giphy.com/media/jgekcW3oyFCQU/200w.gif?cid=6c09b9520obqov6zmg18bp1gmvm8nhb7x3yh3r6fctwsipow&ep=v1_gifs_search&rid=200w.gif&ct=g)" alt="Bye Bye GIF" width="600"/>
-</p>
+![GIF](https://media2.giphy.com/media/jgekcW3oyFCQU/200w.gif?cid=6c09b9520obqov6zmg18bp1gmvm8nhb7x3yh3r6fctwsipow&ep=v1_gifs_search&rid=200w.gif&ct=g)
+
 
 <h3 align="center">oki biye</h3>
