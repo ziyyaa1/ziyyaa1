@@ -41,10 +41,10 @@ Fun Fact: I ride horses & do youtube sometimes.😋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyyaa1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/onyelechie/onyelechie/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/onyelechie/onyelechie/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ziyyaa1/ziyyaa1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ziyyaa1/ziyyaa1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![](https://komarev.com/ghpvc/?username=onyelechie)
+![](https://komarev.com/ghpvc/?username=ziyyaa1)
 
 ## 🎖️ Trophies
 
@@ -54,7 +54,7 @@ Fun Fact: I ride horses & do youtube sometimes.😋
 
 
 <p align="center">
-  <img src="https://github.com/ziyyaa1/ziyyaa1/blob/main/IMG_4782.GIF?raw=true" alt="Bye Bye GIF" width="600"/>
+  <img src="[https://github.com/ziyyaa1/ziyyaa1/blob/main/IMG_4782.GIF?raw=true](https://media2.giphy.com/media/jgekcW3oyFCQU/200w.gif?cid=6c09b9520obqov6zmg18bp1gmvm8nhb7x3yh3r6fctwsipow&ep=v1_gifs_search&rid=200w.gif&ct=g)" alt="Bye Bye GIF" width="600"/>
 </p>
 
 <h3 align="center">oki biye</h3>
