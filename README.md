@@ -55,7 +55,7 @@ Fun Fact: I ride horses & do youtube sometimes.😋
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/jgekcW3oyFCQU/200w.gif" width= "300" alt="Bye GIF" />
+  <img src="https://media2.giphy.com/media/jgekcW3oyFCQU/200w.gif" width= "450" alt="Bye GIF" />
 </p>
 
 <h3 align="center">oki biye</h3>
