@@ -1,4 +1,4 @@
-![My Canva GIF](https://github.com/ziyyaa1/ziyyaa1/blob/main/Colorful%20Illustration%20Game%20Linkedin%20Banner.gif?raw=true)
+![My Github Banner](https://github.com/ziyyaa1/ziyyaa1/blob/main/github%20banner.gif?raw=true)
 
 ## 🎸 About Me
 I started my journey @FAST Karachi, and now I'm pursuing my Computer Science major @University of Manitoba, along with triple minors in Mathematics, Statistics, and Economics.
