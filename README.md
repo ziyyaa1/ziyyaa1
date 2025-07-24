@@ -22,6 +22,10 @@ Fun Fact: I ride horses & do youtube sometimes.😋
   <img src="https://github-readme-stats.vercel.app/api?username=ziyyaa1&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ziyyaa1&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyyaa1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
 
 ## 🔗 Lets connect 
 <p align="left">
@@ -38,9 +42,6 @@ Fun Fact: I ride horses & do youtube sometimes.😋
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyyaa1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ziyyaa1/ziyyaa1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
